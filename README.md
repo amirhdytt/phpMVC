@@ -5,6 +5,7 @@ PHP MVC adalah website yang di buat dari bahasa php dengan menerapkan model, vie
 
 ## Recuirtment
 - Mempunyai web server atau xampp
+- Sesuaikan config database dan url
 
 ## Fitur
 - Terdapat pencarian data dengan cepat
